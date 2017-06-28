@@ -1,2 +1,2 @@
 # Algorithms
-This repository contains java implementations of algorithms.
+This repository contains basic java porgrams.
